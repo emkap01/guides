@@ -25,3 +25,5 @@ Here's some stuff you can do:
 ```
 
 Yep.
+
+I am learning to use GitHub.  Woohoo.
